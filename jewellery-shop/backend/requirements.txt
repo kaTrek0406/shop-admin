@@ -1,0 +1,28 @@
+# Django Core
+Django==5.0.1
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+
+# Authentication
+djangorestframework-simplejwt==5.3.1
+
+# Database
+psycopg2-binary==2.9.9
+
+# Image handling
+Pillow==10.2.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# API Documentation
+drf-yasg==1.21.7
+
+# Filtering
+django-filter==23.5
+
+# Password validation
+argon2-cffi==23.1.0
+
+# Text transliteration
+Unidecode==1.3.7
